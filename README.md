@@ -1,6 +1,6 @@
 ---
 title: Simple LLM QnA
-emoji: 🐠
+emoji: ⚡
 colorFrom: blue
 colorTo: green
 sdk: streamlit
