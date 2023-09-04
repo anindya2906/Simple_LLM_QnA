@@ -1,4 +1,4 @@
-"""Main Application
+"""Main Application module
 """
 
 import streamlit as st
